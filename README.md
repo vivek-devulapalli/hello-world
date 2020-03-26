@@ -1,3 +1,3 @@
 # hello-world
 LearningGit
-Editing the readme only in branch
+Editing the readme file, only in read me branch
